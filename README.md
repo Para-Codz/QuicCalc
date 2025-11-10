@@ -1,3 +1,7 @@
+
+View via vercel ( calculator-mw1b2ch40-paradise-georges-projects.vercel.app)
+
+
 # 🧮 Calculator Program
 
 A simple and stylish **JavaScript Calculator** built with **HTML, CSS, and JavaScript**.  
